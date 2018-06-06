@@ -1,14 +1,9 @@
 # postal.js
 Formating and parsing postal addresses according the country rules
 
-## urls
+## Links
 
-1. FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES
-  Effective Addressing for International Mail
-  http://www.columbia.edu/~fdc/postal/
-
-
-2. Understanding complicated international address formats
-  more than 120 different address formats around the world, choose by country
-https://www.pcapredict.com/international-address-formats/
-
+1. (FRANK'S COMPULSIVE GUIDE TO POSTAL ADDRESSES)[http://www.columbia.edu/~fudc/postal/]
+   Effective Addressing for International Mail
+2. (Understanding complicated international address formats)[https://www.pcapredict.com/international-address-formats/]
+   More than 120 different address formats around the world, choose by country
