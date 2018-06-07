@@ -17,3 +17,5 @@ Formating and parsing postal addresses according the country rules
     jQuery plugin to parse a postal address and extract component parts
 8.  https://github.com/scaleway/postal-address
     Python module to parse, normalize and render postal addresses.
+9.  https://github.com/kdeldycke/awesome-falsehood#postal-addresses
+    Falshood about postal addresses, parsing them with regex and delivery miracles
